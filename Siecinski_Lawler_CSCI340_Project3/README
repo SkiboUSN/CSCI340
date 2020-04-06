@@ -1,0 +1,5 @@
+Usage: ./340_proj_3 <input> <# of threads>
+
+Input can either be to input from the keyboard or a .txt file
+"keyboard" or"k" will allow keyboard input until the string "quit" is entered
+the path to a .txt file with the filetype will read from the file
